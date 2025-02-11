@@ -5,3 +5,7 @@ Answer: We might consider using Git to keep track of our code history and allow 
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: It could be applied to the retail industry. For example, it could be used to determine which items should be stocked on shelves. 
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging combines the changes together and preserves the branch history whereas rebasing moves commits from the source to the target branch.
