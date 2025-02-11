@@ -1,0 +1,3 @@
+Q1: Why might we consider using Git?
+
+Answer: We might consider using Git to keep track of our code history and allow for easier collaboration. 
